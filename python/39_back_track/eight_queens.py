@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 # 棋盘尺寸
-BOARD_SIZE = 8
+BOARD_SIZE = 4
 
 solution_count = 0
 queen_list = [0] * BOARD_SIZE
